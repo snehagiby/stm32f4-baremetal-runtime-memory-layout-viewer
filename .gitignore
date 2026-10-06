@@ -1,0 +1,8 @@
+# Compiled outputs & IDE configs
+*.o
+*.bin
+*.elf
+.vscode/
+Debug/
+*.launch
+LICENSE.txt
